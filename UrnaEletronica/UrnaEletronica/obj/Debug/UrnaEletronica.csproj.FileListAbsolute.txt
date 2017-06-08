@@ -1,0 +1,12 @@
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.pdb
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Form1.resources
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.Properties.Resources.resources
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.csproj.GenerateResource.Cache
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+E:\Executaveis liberados\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
+D:\Faculdade\Programação Visual\UrnaEletronica\UrnaEletronica\bin\Debug\UrnaEletronica.exe.config
+D:\Faculdade\Programação Visual\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.exe
+D:\Faculdade\Programação Visual\UrnaEletronica\UrnaEletronica\obj\Debug\UrnaEletronica.pdb
